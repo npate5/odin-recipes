@@ -1,5 +1,7 @@
 # odin-recipes
 
+Website link: https://npate5.github.io/odin-recipes/
+
 First project -- October 13-2022
 I was able to create new repo using GitHub account
 I copied SSH key to clone using Terminal on to my local machine

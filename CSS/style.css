@@ -1,0 +1,13 @@
+* {
+    border: 2px solid red;
+}
+
+body, ul {
+    color: brown;
+}
+
+.ingredients {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+}
+
